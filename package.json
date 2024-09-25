@@ -20,6 +20,7 @@
     "@mui/icons-material": "^6.1.1",
     "@mui/material": "^6.1.1",
     "@refinedev/react-hook-form": "^4.9.0",
+    "@tanstack/react-query": "^5.56.2",
     "@toolpad/core": "^0.7.0",
     "@types/react-icons": "^3.0.0",
     "@types/react-router-dom": "^5.3.3",
